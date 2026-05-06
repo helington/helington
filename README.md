@@ -46,15 +46,7 @@ Currently, I am highly focused on **Competitive Programming**, where I constantl
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radium&hide_border=true&title_color=2563EB" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radium&hide_border=true&stroke=0000&title_color=2563EB" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radium&hide_border=true&title_color=2563EB" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helington&theme=tokyonight&hide_border=true&stroke=0000&title_color=DEFF9A" alt="GitHub Streak" />
 </p>
 
 ---
